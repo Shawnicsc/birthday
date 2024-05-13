@@ -28,7 +28,7 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-           "亲爱的刘丫丫": "./imgs/img1.jpg"
+           "亲爱的刘丫丫": "./imgs/img1.jpg",
            "愿你在这一年得偿所愿": "./imgs/img2.jpg",
            "愿你永远平安喜乐": "./imgs/img3.jpg",  
            "在每一个时刻感到幸福": "./imgs/img4.jpg",
