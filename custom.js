@@ -1,5 +1,5 @@
-function addScript(){
-    document.write("<script language=javascript src="config.js"></script>");
+function addScript() {
+    document.write('<script src="config.js"></script>');
 }
 $(function () {
     let dom = document.createElement("span");
