@@ -1,4 +1,6 @@
-// 霸都丶傲天 2019.10.10
+function addScript(){
+    document.write("<script language=javascript src="config.js"></script>");
+}
 $(function () {
     let dom = document.createElement("span");
     config.texts.forEach(function (item) {
